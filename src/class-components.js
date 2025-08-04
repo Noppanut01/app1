@@ -5,7 +5,6 @@ export default class Button extends Component {
         // alert(msg)
         alert(msg)
     }
-
     onClickButtonOK = () => {
         this.showAlert("Hello")
     }
